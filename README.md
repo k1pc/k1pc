@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 -->
 ## Equipments
 
-### PC
+## TV
+Sony BRAVIA 40" LCD TV
 
-#### CPU
-Intel Xeon X3220 (Quad-core, 2.40GHz)
-#### RAM
-DDR2-800 8GB
-#### Graphics
-NVIDIA Geforce 8400 GS
-#### Storage
-Toshiba 128GB SSD + Hitachi 250GB HDD
-#### OS
+### Desktop PC
 Windows 11 Pro
 
 ### Printer
@@ -33,3 +26,4 @@ Windows 11 Pro
 Canon PIXUS MG6330 IJ Printer
 #### Ink
 350XL+351
+
