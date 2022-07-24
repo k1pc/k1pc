@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-REMsです
+REMsです。サークル室K1にあるPCからログインしているので、アカウント名はk1pcです。
 
