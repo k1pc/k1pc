@@ -13,17 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Equipments
-
-## TV
-Sony BRAVIA 40" LCD TV
-
-### Desktop PC
-Windows 11 Pro
-
-### Printer
-#### Model
-Canon PIXUS MG6330 IJ Printer
-#### Ink
-350XL+351
+REMsです
 
